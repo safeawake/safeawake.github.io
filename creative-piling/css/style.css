@@ -710,7 +710,7 @@ a:active, a:hover, a {
 }
 
 #services_slider .owl-dots .owl-dot.active {
-    background: #d00520 !important;
+    background: transparent !important;
 }
 
 /* ===================================
