@@ -623,7 +623,7 @@ a:active, a:hover, a {
     Services Section
 ====================================== */
 
-.bg-services {background: url(../images/services-bg.jpg); background-size: cover; background-repeat: no-repeat;}
+.bg-services {background: url(../images/sonBackground.jpeg); background-size: cover; background-repeat: no-repeat;}
 
 .services-item{
     max-width: 560px;
@@ -717,7 +717,7 @@ a:active, a:hover, a {
     Team Section
 ====================================== */
 
-.bg-team {background: url(../images/team-bg.jpg); background-size: cover; background-repeat: no-repeat;}
+.bg-team {background: url(../images/sonBackground.jpeg); background-size: cover; background-repeat: no-repeat;}
 
 .testimonial-line{
     width: 5px;
@@ -1396,7 +1396,7 @@ div[data-title="THE QUEEN"] {
    Contact Section
 ====================================== */
 
-.bg-contact {background: url(../images/contact-bg.jpg); background-size: cover; background-repeat: no-repeat;}
+.bg-contact {background: url(..images/sonBackground.jpg); background-size: cover; background-repeat: no-repeat;}
 
 .contact-body{width: 100%; height: 500px;}
 
